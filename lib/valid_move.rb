@@ -18,4 +18,3 @@ def position_taken?(board, index)
 end
 
 
-3.between?(0, 8)
